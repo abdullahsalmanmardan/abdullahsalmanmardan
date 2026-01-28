@@ -25,7 +25,7 @@ React.js | Next.js | Tailwind CSS | JavaScript | TypeScript
 Node.js | Express.js | Ruby on Rails | REST | GraphQL | Supabase  
 
 **AI / Automation:**  
-OpenAI API | Agentic AI | Chatbots | LangChain | Python (ML basics)  
+OpenAI API | Agentic AI | Chatbots | LangChain | Python 
 
 **DevOps / Tools:**  
 Docker | AWS | Git | GitHub | CircleCI | Jenkins | Nginx  
@@ -44,8 +44,8 @@ PostgreSQL | MongoDB | Redis | Supabase
 
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-salman-452292169/)  
-- 💻 [Portfolio / Website](abdullah-portfolio-sigma.vercel.app)  
-- 📫 [abdullah@example.com](mailto:codewithabdullahsalman@gmail.com)
+- 💻 [Portfolio / Website](https://me.abdullah-salman-dev.site/)  
+- 📫 [Email](mailto:codewithabdullahsalman@gmail.com)
 
 ---
 
