@@ -8,7 +8,7 @@ I love creating efficient, clean, and intelligent solutions — from powerful ba
 ---
 
 ### 🧠 About Me
-- 💻 Specialized in **MERN**, **Ruby on Rails**, and **Next.js** development  
+- 💻 Specialized in **MERN**, **Ruby on Rails**, **Next.js** and **Python** development  
 - 🤖 Exploring **AI/ML**, **agentic AI systems**, and **chatbot integrations**  
 - ⚙️ Skilled in setting up **MCP servers**, **CI/CD pipelines**, and **containerized deployments**  
 - ☁️ Experienced with **AWS**, **Supabase**, and **cloud-native app design**  
