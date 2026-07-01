@@ -44,7 +44,7 @@ PostgreSQL | MongoDB | Redis | Supabase
 
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-salman-452292169/)  
-- 💻 [Portfolio / Website](https://me.abdullah-salman-dev.site/)  
+- 💻 [Portfolio / Website](https://abdullahdev.website/)  
 - 📫 [Email](mailto:codewithabdullahsalman@gmail.com)
 
 ---
